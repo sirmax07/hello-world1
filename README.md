@@ -10,3 +10,6 @@ Some changes are to be made just to make this file different from the master bra
 # Primary heading
 
 ### Tertiary heading
+
+* first line in the list
+* second line
